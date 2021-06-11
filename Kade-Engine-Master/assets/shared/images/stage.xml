@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stage.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stage resize0000" x="0" y="0" width="1921" height="1081"/>
+	<SubTexture name="stage resize0001" x="0" y="0" width="1921" height="1081"/>
+	<SubTexture name="stage resize0002" x="1926" y="0" width="1921" height="1081"/>
+	<SubTexture name="stage resize0003" x="1926" y="0" width="1921" height="1081"/>
+	<SubTexture name="stage resize0004" x="0" y="1086" width="1921" height="1081"/>
+	<SubTexture name="stage resize0005" x="0" y="1086" width="1921" height="1081"/>
+	<SubTexture name="stage resize0006" x="0" y="1086" width="1921" height="1081"/>
+	<SubTexture name="stage resize0007" x="0" y="1086" width="1921" height="1081"/>
+	<SubTexture name="stage resize0008" x="0" y="1086" width="1921" height="1081"/>
+	<SubTexture name="stage resize0009" x="0" y="1086" width="1921" height="1081"/>
+	<SubTexture name="stage resize0010" x="0" y="1086" width="1921" height="1081"/>
+	<SubTexture name="stage resize0011" x="0" y="1086" width="1921" height="1081"/>
+	<SubTexture name="stage resize0012" x="0" y="1086" width="1921" height="1081"/>
+	<SubTexture name="stage resize0013" x="0" y="1086" width="1921" height="1081"/>
+</TextureAtlas>

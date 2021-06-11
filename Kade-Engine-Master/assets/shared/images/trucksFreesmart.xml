@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trucksFreesmart.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="match bubble resize0000" x="0" y="0" width="992" height="249" frameX="0" frameY="-12" frameWidth="992" frameHeight="262"/>
+	<SubTexture name="match bubble resize0001" x="0" y="0" width="992" height="249" frameX="0" frameY="-12" frameWidth="992" frameHeight="262"/>
+	<SubTexture name="match bubble resize0002" x="997" y="0" width="992" height="258" frameX="0" frameY="-4" frameWidth="992" frameHeight="262"/>
+	<SubTexture name="match bubble resize0003" x="997" y="0" width="992" height="258" frameX="0" frameY="-4" frameWidth="992" frameHeight="262"/>
+	<SubTexture name="match bubble resize0004" x="0" y="263" width="992" height="262"/>
+	<SubTexture name="match bubble resize0005" x="997" y="263" width="992" height="262"/>
+	<SubTexture name="match bubble resize0006" x="997" y="263" width="992" height="262"/>
+	<SubTexture name="match bubble resize0007" x="997" y="263" width="992" height="262"/>
+	<SubTexture name="match bubble resize0008" x="997" y="263" width="992" height="262"/>
+	<SubTexture name="match bubble resize0009" x="997" y="263" width="992" height="262"/>
+	<SubTexture name="match bubble resize0010" x="997" y="263" width="992" height="262"/>
+	<SubTexture name="match bubble resize0011" x="997" y="263" width="992" height="262"/>
+	<SubTexture name="match bubble resize0012" x="997" y="263" width="992" height="262"/>
+	<SubTexture name="match bubble resize0013" x="997" y="263" width="992" height="262"/>
+</TextureAtlas>
